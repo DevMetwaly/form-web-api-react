@@ -1,0 +1,15 @@
+footer{
+    position: fixed;
+    bottom: 0px;
+    width:100%;
+    min-height: 20px;
+    
+    background-color: #ddd!important;    
+    text-align: center;
+    padding: 5px;
+    font-size: 15px;    
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+
+}

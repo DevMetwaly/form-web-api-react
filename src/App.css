@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(to bottom right, rgb(35, 112, 255), rgb(137, 177, 252));
+    background-size: contain;
+    min-height: 700px;
+}
+
